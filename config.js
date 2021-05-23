@@ -37,9 +37,9 @@ module.exports = {
 		"-----END PUBLIC KEY-----",
 	SECRET_KEY: "MIICWQIBAAKBgEy3YzkLsosLAJoxWyYNUUWH5wAyq2DSK8IAPJm7r34CqlYNyNSk",
 
-	SIM_API_URL: "http://127.0.0.1:7000",
+	// SIM_API_URL: "http://127.0.0.1:7000",
 	// SIM_API_URL: "https://royalties.jewishmusic.fm",
 
 	// SIM_API_URL: "http://167.86.96.120:7000",
-	//SIM_API_URL: "https://track-royalty-api.herokuapp.com",
+	SIM_API_URL: "https://trackroyaltyapi.herokuapp.com",
 };
